@@ -22,6 +22,7 @@ async function main() {
   );
   transaction.add(transferInstruction);
 
+
   // const memo = 'Multumesc ...';
   // const memoInstruction = createMemoInstruction(memo);
   // transaction.add(memoInstruction);
