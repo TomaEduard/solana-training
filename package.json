@@ -11,6 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@metaplex-foundation/js": "^0.17.12",
     "@solana-developers/helpers": "^2.3.0",
     "@solana/spl-memo": "^0.2.5",
     "@solana/spl-token": "^0.4.7",
