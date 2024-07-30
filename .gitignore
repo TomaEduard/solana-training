@@ -2,8 +2,8 @@
 /dist
 /node_modules
 /build
-./8th_project/favorites/node_modules
-./9th_project/escrow/node_modules
+/8th_project/favorites/node_modules
+/9th_project/escrow/node_modules
 
 # Logs
 logs
